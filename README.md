@@ -12,10 +12,13 @@
 
 [House Prices:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/forecasting-store-salesPB.ipynb) This project consist to implement Advance Tecnique Regression. For it, we applied a fork to notebook of Ryan Holbrook. In this new fork, we implemented more depth Exploratory Data Analysis. Additional, we agreeged new  models, with respect hypeterparameters, it was tuning,  used library **Optuna**.
 
-[Discovering Exoplanets:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/DiscoveryExoplanets.ipynb) Problem of Classification the Explanets. I used the [source](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html). It was worked **Random Forest Classification**, findings hiperparameters with **RandomSearchCV**, achieve a 74,65% for the metric **f1**. In turn, displayed **Confusion Matrix**
+[Discovering Exoplanets:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/DiscoveryExoplanets.ipynb) Problem of Classification the Explanets. we  used the [source](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html). It was worked **Random Forest Classification**, findings hiperparameters with **RandomSearchCV**, achieve a 74,65% for the metric **f1**. In turn, displayed **Confusion Matrix**
 
 
 
 ## Deep Learning
+
+[Emojis:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/objectoLocalization.ipynb) In this project, the goal was determined Object Localization, correspond one Emojis. The problem consisted in  dectection  exactly only instance of one object. To do this, we trained a model with **Convolutional Neural Network** (CNN), utilized for it, library **TensorFlow**. The project  comes from Guided Project of Coursera.
+
 
 [Petal of the Metal:](https://github.com/cristianBMJ/PortfolioDataScience/blob/main/petals-to-the-metal.ipynb) The present Machine learning model, consists to classify 104 types of flowers based on their images. For that, added news layers were implemented and transfer learning used pretrained apliccations **Xception** and **DenseNet201** to get a Hybric Model. The train it on a Tensor Processing Unit (TPU). 

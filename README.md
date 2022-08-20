@@ -10,7 +10,7 @@
 
 
 
-[House Prices:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/forecasting-store-salesPB.ipynb) This project consist to implement Advance Tecnique Regression. For it, we applied a fork to notebook of Ryan Holbrook. In this new fork, we implemented more depth Exploratory Data Analysis. Additional, we agreeged new  models, with respect hypeterparameters, it was tuning,  used library **Optuna**.
+[House Prices:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/fork-of-houseprices.ipynb) This project consist to implement Advance Tecnique Regression. For it, we applied a fork to notebook of Ryan Holbrook. In this new fork, we implemented more depth Exploratory Data Analysis. Additional, we agreeged new  models, with respect hypeterparameters, it was tuning,  used library **Optuna**.
 
 [Discovering Exoplanets:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/DiscoveryExoplanets.ipynb) Problem of Classification the Explanets. we  used the [source](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html). It was worked **Random Forest Classification**, findings hiperparameters with **RandomSearchCV**, achieve a 74,65% for the metric **f1**. In turn, displayed **Confusion Matrix**
 

@@ -15,7 +15,7 @@
 [Discovering Exoplanets:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/DiscoveryExoplanets.ipynb) Problem of Classification the Explanets. we  used the [source](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html). It was worked **Random Forest Classification**, findings hiperparameters with **RandomSearchCV**, achieve a 74,65% for the metric **f1**. In turn, displayed **Confusion Matrix**
 
 [Income:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/Ingresos.ipynb) The project is about determined Income for some Adults
-, the target is divide in two interval, `<=50K` and `>50K`. Therefore,  it is problema of Classification. The Metric used is **F1** and **Confusion Matrix**, to obtaing a precision aproximately of '81%'.    
+, the target is divide in two interval, `<=50K` and `>50K`. Therefore,  it is problem of Classification. The Metric used is **F1** and **Confusion Matrix**, to obtaing a precision aproximately of '81%'.    
 
 ## Deep Learning
 

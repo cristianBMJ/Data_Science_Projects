@@ -5,16 +5,11 @@
 [Stars Categorization:]( https://github.com/cristianBMJ/ProjectsDataScience/blob/main/classification-star.ipynb)   Classification of Star Giants  or  Dwarfs , consider the  [dataset](https://www.kaggle.com/datasets/vinesmsuic/star-categorization-giants-and-dwarfs). The categorization the Stars was studied according to criteria the Morgan–Keenan (MK) classification system. Firstly, the dataset was cleaned  and then it was balanced. In order to apply  three models's Machine Learning, being **Random Forest Classification**   the one with the better results, obtaining a precision of 94% used metrics F1.   
 
 
-[Forecasting Store Sales:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/forecasting-store-salesPB.ipynb) Forecasting Store Sales: The goal is to forecast store sales in Ecuador, considering different store locations across the country. The hybrid model used for learning consists of two components: **RandomForestRegressor** and **LinearRegression**.
+[Forecasting Store Sales:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/forecasting-store-salesPB.ipynb) The goal is to forecast store sales in Ecuador, considering different store locations across the country. The hybrid model used for learning consists of two components: **RandomForestRegressor** and **LinearRegression**.
 
 
 
-   
-
-
-
-
-[House Prices:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/fork-of-houseprices.ipynb) This project consist to implement Advance Tecnique Regression. For it, we applied a fork to notebook of Ryan Holbrook. In this new fork, we implemented more depth Exploratory Data Analysis. Additional, we agreeged new  models, with respect hypeterparameters, it was tuning,  used library **Optuna**.
+[House Prices:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/fork-of-houseprices.ipynb) This project aims to implement Advance Tecnique  Regression for predicting house prices. To achieve this, I have utilized a forked version of Ryan Holbrook's notebook. In this modified version, I incorporated more depth Exploratory Data Analysis. In turn, to had been  added new  models, fit by  hypeterparameters with the library **Optuna**.
 
 [Discovering Exoplanets:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/DiscoveryExoplanets.ipynb) Problem of Classification the Explanets. we  used the [source](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html). It was worked **Random Forest Classification**, findings hiperparameters with **RandomSearchCV**, achieve a 74,65% for the metric **f1**. In turn, displayed **Confusion Matrix**
 
@@ -23,7 +18,9 @@
 
 ## Deep Learning
 
-[Emojis:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/objectoLocalization.ipynb) In this project, the goal was determined Object Localization, correspond one Emojis. The problem consisted in  dectection  exactly only instance of one object. To do this, we trained a model with **Convolutional Neural Network** (CNN), utilized for it, library **TensorFlow**. The project  comes from Guided Project of Coursera.
+[Emojis:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/objectoLocalization.ipynb) In this project, the goal was determined Object Localization, correspond one Emojis. The problem consisted in  dectection  exactly only instance of one object. To do this, we trained a model with **Convolutional Neural Network** (CNN), utilized for it, the library **TensorFlow**. The project  comes from Guided Project of Coursera.
 
 
-[Petal of the Metal:](https://github.com/cristianBMJ/PortfolioDataScience/blob/main/petals-to-the-metal.ipynb) The present Machine learning model, consists to classify 104 types of flowers based on their images. For that, added news layers were implemented and transfer learning used pretrained apliccations **Xception** and **DenseNet201** to get a Hybric Model. The train it on a Tensor Processing Unit (TPU). (Extension  Kaggle notebook) 
+[Petal of the Metal:](https://github.com/cristianBMJ/PortfolioDataScience/blob/main/petals-to-the-metal.ipynb)The current machine learning model focuses on classifying 104 types of flowers based on their images. To achieve this, new layers have been added to enhance the model's architecture. Transfer learning techniques have been employed, utilizing pre-trained applications such as Xception and DenseNet201, which serve as a foundation for the hybrid model.
+
+ 

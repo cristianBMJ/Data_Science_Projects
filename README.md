@@ -2,6 +2,8 @@
 
 ## Machine Learning
 
+[Product Forecasting for a Agriculture Company:](/Forecasting_LightGBM.ipynb) A LightGBM model was implemented for 1000 products belonging to an agricultural company using historical data with at least 66 instances per threshold, employing lags. Forecasting was performed using Multistep for 12 months from their last sale. L2 regularization was applied, but a certain category of products still shows signs of overfitting.
+
 [Stars Categorization:]( https://github.com/cristianBMJ/ProjectsDataScience/blob/main/classification-star.ipynb)   Classification of Star Giants  or  Dwarfs , consider the  [dataset](https://www.kaggle.com/datasets/vinesmsuic/star-categorization-giants-and-dwarfs). The categorization the Stars was studied according to criteria the Morgan–Keenan (MK) classification system. Firstly, the dataset was cleaned  and then it was balanced. In order to apply  three models's Machine Learning, being **Random Forest Classification**   the one with the better results, obtaining a precision of 94% used metrics **F1**.   
 
 

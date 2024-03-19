@@ -21,12 +21,16 @@
 
 
 
-[House Prices:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/fork-of-houseprices.ipynb) This project aims to implement Advance Tecnique  Regression for predicting house prices. To achieve this, I have utilized a forked version of Ryan Holbrook's notebook. In this modified version, I incorporated more depth Exploratory Data Analysis. In turn, to had been  added new  models, fit by  hypeterparameters with the library **Optuna**.
 
 [Discovering Exoplanets:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/DiscoveryExoplanets.ipynb) Problem of Classification the Explanets. we  used the [source](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html). It was worked **Random Forest Classification**, findings hiperparameters with **RandomSearchCV**, achieve a 74,65% for the metric **F1**. In turn, displayed **Confusion Matrix**
 
 [Income:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/Ingresos.ipynb) The project is about determined Income for some Adults
 , the target is divide in two interval, `<=50K` and `>50K`. Therefore,  it is problem of Classification. The Metric used is **F1** and **Confusion Matrix**, to obtaing a precision aproximately of  81 %.
+
+### Regression
+
+
+[House Prices:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/fork-of-houseprices.ipynb) This project aims to implement Advance Tecnique  Regression for predicting house prices. To achieve this, I have utilized a forked version of Ryan Holbrook's notebook. In this modified version, I incorporated more depth Exploratory Data Analysis. In turn, to had been  added new  models, fit by  hypeterparameters with the library **Optuna**.
 
 
 ## Deep Learning

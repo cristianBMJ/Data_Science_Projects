@@ -5,7 +5,7 @@
 ### Forecasting
 
 
-[Product Forecasting for a Agriculture Company:](/Forecasting_LightGBM.ipynb) A LightGBM model was implemented for 1000 products belonging to an agricultural company using historical data with at least 66 instances, employing lags. Forecasting was performed using Multistep for 12 months from their last sale. L2 regularization was applied, but a certain category of products still shows signs of overfitting.
+[Product Forecasting for a Agriculture Company:](/Forecasting_LightGBM.ipynb) A LightGBM model was implemented for 1000 products belonging to an agricultural company using historical data with at least 66 instances, employing lags. Forecasting was performed using Multistep for 6 months from their last sale. L2 regularization was applied, but a certain category of products still shows signs of overfitting.
 
 
 [Forecasting Store Sales:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/forecasting-store-salesPB.ipynb) The goal is to forecast store sales in Ecuador, considering different store locations across the country. The hybrid model used for learning consists of two components: **RandomForestRegressor** and **LinearRegression**.

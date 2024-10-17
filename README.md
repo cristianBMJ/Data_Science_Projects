@@ -7,7 +7,7 @@
 
 [Product Stock Projection for an Agricultural Company:](/Forecasting_LightGBM.ipynb) A LightGBM model was implemented for 1000 products belonging to an agricultural company using historical data with at least 66 instances, employing lags. Stock predict was performed using Multistep for 6 months from their last sale. L2 regularization was applied, but a certain category of products still shows signs of overfitting.
 
-[Forecasting Store Sales:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/forecasting-store-salesPB.ipynb) The goal is to forecast store sales in Ecuador, considering different store locations across the country. The hybrid model used for learning consists of two components: **RandomForestRegressor** and **LinearRegression**.
+[Predicting Store Sales:](https://github.com/cristianBMJ/ProjectsDataScience/blob/main/forecasting-store-salesPB.ipynb) The goal is to forecast store sales in Ecuador, considering different store locations across the country. The hybrid model used for learning consists of two components: **RandomForestRegressor** and **LinearRegression**.
 
 
 [Forecasting Store Sales of Drinks ]( https://github.com/cristianBMJ/ProjectsDataScience/blob/main/pronostico_ventas_bebidas.ipynb) The goal was to determined the  daily sales for the  month of Febraury 2022, to achieve this, the  **RandomForestRegressor** model was used, which resulted in a root mean squear error **RMSE** of 4.65.
